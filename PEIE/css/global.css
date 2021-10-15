@@ -1,0 +1,160 @@
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+TD {
+    font-family : Tahoma;
+    font-size : 11px;
+    color : #000000;
+    font-weight : normal;
+}
+
+
+/* Para los Textos de las Tablas de la pagina de Login */
+
+.textTitleLogin{
+    font-family : Arial;
+    font-size : 11px;
+    color : #FFFFFF;
+    font-weight : bolder;
+    background-repeat: no-repeat;
+}
+
+.textLogin{
+    color: #FFFFFF;
+}
+
+/* Para los textos de las Tablas de la pagina de Inicio */
+
+.Texto_tabla_inicio{
+    font-family : Arial;
+    font-size : 12px;
+    color : #FFFFFF;
+    font-weight : bolder;
+}
+
+.Tabla_titulos_inicio{
+    font-family : Arial;
+    font-size : 10px;
+    color : #FFFFFF;
+    font-weight : bolder;
+    background-color: #585858;
+}
+
+.texto_login_men{
+	color:#FF0000;
+}
+
+
+
+
+
+.titles {
+    font-family : Tahoma;
+    font-size : 18px;
+    color : white;
+	text-align:center;
+    width:100%;
+}
+.tableBorder {
+
+	padding-left: 10px;
+
+}
+.tableHeader{
+    font-family:Arial;
+    font-size: 11px;
+    color: #FFFFFF;
+    font-weight: bolder;
+	/*background:#3079AC;*/
+	background:#962F30;
+}
+
+
+.textoCampo{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#000;
+	font-weight:bold;
+	text-align:right;
+	vertical-align:middle;
+}
+.textoCampoReadOnly{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#999;
+	font-weight:bold;
+	text-align:right;
+	vertical-align:middle;
+}
+
+.textoSubTabla{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:10.5px;
+	color:#000;
+	text-align:center
+}
+
+.textoInput{
+	color:#666666;
+	text-transform:uppercase;
+	font-size:12px;
+}
+
+.loginBlock{
+    display: block;
+    width: 950px;
+    border: 1px solid #eaeaea;
+    background-color:#fafafa;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+}
+
+.loginBlock2{
+    display: block;
+    width: 990px;
+    border: 1px solid #eaeaea;
+    background-color:#fafafa;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+}
+
+.mensages{
+	font-size:12px;
+	color:#FF0000;
+	font-weight:bold;
+}
+img{
+	cursor:pointer;
+}
+label.error { 
+	color:#990000;
+	/*float:none;
+	display:block;*/
+	font-weight:bold
+}
+.textoDato{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#000;
+	text-align:center;
+	vertical-align:middle;
+}
+.encabezado {/*encabezados para reportes*/
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+.subTitulos {/*Subtitulos Reportes para reportes*/
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-align:right;
+}
+.titulosInicioRep{/*Inicio Reportes para reportes*/
+    font-family : Arial;
+    font-size : 12px;
+    font-weight : bolder;
+}
